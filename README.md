@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**dacerondrej/dacerondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
 
-Here are some ideas to get you started:
+- 💻 Frontend developer with a strong interest in product design
+- 🌳 Nature lover
+- ⚽ Sport enthusiast with a particular passion for football
+- 🌍 Traveler and adventurer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Feel free to reach me
+
+- 📫 Email: [dacer.ondrej@gmail.com](mailto:dacer.ondrej@gmail.com)
+- 💬 LinkedIn: [Ondřej Dacer](https://www.linkedin.com/in/ond%C5%99ej-dacer-89097b231)
