@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-- 💻 Frontend developer with a strong interest in product design
+- 💻 Frontend developer
 - 🌳 Nature lover
 - ⚽ Sport enthusiast with a particular passion for football
 - 🌍 Traveler and adventurer
